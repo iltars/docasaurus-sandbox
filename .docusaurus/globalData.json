@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pipeline-services/administration-guide",
+              "path": "/docs/pipeline-services/administration-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "salesforce-guides/Creating_an_Offline_Order",
+              "path": "/docs/salesforce-guides/Creating_an_Offline_Order",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "salesforce-guides/markdown-features",
+              "path": "/docs/salesforce-guides/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/microservices-deployment",
+              "path": "/docs/category/microservices-deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/salesforce-guides",
+              "path": "/docs/category/salesforce-guides",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
