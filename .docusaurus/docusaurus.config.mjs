@@ -8,7 +8,7 @@ export default {
   "tagline": "A sandbox for documentation by Ilia Tarasov",
   "favicon": "img/favicon.ico",
   "url": "https://iltar-docusaurus.samples.com",
-  "baseUrl": "/",
+  "baseUrl": "/docasaurus-sandbox/",
   "organizationName": "iltars",
   "projectName": "docasaurus-sandbox",
   "onBrokenLinks": "throw",

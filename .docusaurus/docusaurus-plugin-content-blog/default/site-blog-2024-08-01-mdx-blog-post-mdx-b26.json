@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/mdx-blog-post",
+  "permalink": "/docasaurus-sandbox/blog/mdx-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2024-08-01-mdx-blog-post.mdx",
   "title": "A fresh start",
@@ -9,13 +9,13 @@
     {
       "inline": false,
       "label": "!Hola",
-      "permalink": "/blog/tags/hola",
+      "permalink": "/docasaurus-sandbox/blog/tags/hola",
       "description": "Hola tag description"
     },
     {
       "inline": false,
       "label": "Docusaurus",
-      "permalink": "/blog/tags/docusaurus",
+      "permalink": "/docasaurus-sandbox/blog/tags/docusaurus",
       "description": "Docusaurus tag description"
     }
   ],
