@@ -10,7 +10,7 @@ export default {
   "url": "https://iltar-docusaurus.samples.com",
   "baseUrl": "/",
   "organizationName": "iltars",
-  "projectName": "docusaurus_samples",
+  "projectName": "docasaurus-sandbox",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

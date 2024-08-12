@@ -34,7 +34,7 @@ There are two primary configuration files to interact with the created **Pipelin
 
 > These files are located in the common repository and are being used by the system administrator to carry out functional adjustments and manage environment-dependent parameters. 
 
-After updating the `pipeline` distribution (refer to **[Installation Guide](../../installation-guide/md/index.md)** → **Update** → **Conducting a consecutive Pipeline migration**) using a **Service job** in the `common` repository the primary configuration file for the `pipeline` – ***environment.json*** is being created/updated. This file allows the administration of stand-dependent parameters shared among all deployed functional applications, including Nexus Repository addresses, deployment credentials, deployment modes, and optionally selected features. All possible parameters in the ***environment.json*** file are shown in the following code block.
+After updating the `pipeline` distribution (refer to **Installation Guide** → **Update** → **Conducting a consecutive Pipeline migration**) using a **Service job** in the `common` repository the primary configuration file for the `pipeline` – ***environment.json*** is being created/updated. This file allows the administration of stand-dependent parameters shared among all deployed functional applications, including Nexus Repository addresses, deployment credentials, deployment modes, and optionally selected features. All possible parameters in the ***environment.json*** file are shown in the following code block.
 
 ### Working with the environment.json
 
@@ -337,7 +337,7 @@ PARAMETERS:
 
 ### Managing the subsystems.json
 
-Following the Pipeline update (refer to [**Installation Guide**](../../installation-guide/md/index.md) → **Conducting Sequential Subsystems Migration**), the primary configuration file for installed configurations of functional applications - subsystems.json, is being created or updated in the `common` repository through the **Service job**.
+Following the Pipeline update (refer to **Installation Guide** → **Conducting Sequential Subsystems Migration**), the primary configuration file for installed configurations of functional applications - subsystems.json, is being created or updated in the `common` repository through the **Service job**.
 
 ***subsystems.json*** file contents example:
 

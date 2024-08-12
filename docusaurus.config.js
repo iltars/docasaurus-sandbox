@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'iltars', // Usually your GitHub org/user name.
-  projectName: 'docusaurus_samples', // Usually your repo name.
+  projectName: 'docasaurus-sandbox', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
