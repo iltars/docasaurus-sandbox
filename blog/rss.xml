@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>A test portfolio built on the open-source Docusaurus platform Blog</title>
-        <link>https://iltar-docusaurus.samples.com/docasaurus-sandbox/blog</link>
+        <link>https://docasaurus-sandbox.com/docasaurus-sandbox/blog</link>
         <description>A test portfolio built on the open-source Docusaurus platform Blog</description>
         <lastBuildDate>Thu, 01 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,11 +10,11 @@
         <language>en</language>
         <item>
             <title><![CDATA[A fresh start]]></title>
-            <link>https://iltar-docusaurus.samples.com/docasaurus-sandbox/blog/mdx-blog-post</link>
-            <guid>https://iltar-docusaurus.samples.com/docasaurus-sandbox/blog/mdx-blog-post</guid>
+            <link>https://docasaurus-sandbox.com/docasaurus-sandbox/blog/mdx-blog-post</link>
+            <guid>https://docasaurus-sandbox.com/docasaurus-sandbox/blog/mdx-blog-post</guid>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Under development]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="under-development">Under development<a href="https://iltar-docusaurus.samples.com/docasaurus-sandbox/blog/mdx-blog-post#under-development" class="hash-link" aria-label="Direct link to Under development" title="Direct link to Under development">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="under-development">Under development<a href="https://docasaurus-sandbox.com/docasaurus-sandbox/blog/mdx-blog-post#under-development" class="hash-link" aria-label="Direct link to Under development" title="Direct link to Under development">​</a></h2>
 <blockquote>
 <p>Stand by as I am looking for React component to enable a PDF view.</p>
 </blockquote>]]></content:encoded>
